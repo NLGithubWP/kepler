@@ -16,7 +16,7 @@
 """A suite of tools for efficiently collecting EXPLAIN plans.
 
 Each of the tools here collects EXPLAIN plans in some fashion to support
-analyses of Kepler ideas and baselines.
+analyses of Kepler ideas and others.
 
 As different from pg_execute_training_data_queries which is single-threaded to
 execute queries in isolation, this tool collects EXPLAIN plans in parallel.
